@@ -52,5 +52,5 @@ Performance of DMDiff on corssdocked dataset compared to existing structure-base
 ![mhnn-method](./table.jpg)
 
 Node: 
-Our code was developed with reference to the code written by [Guan et al.](https://openreview.net/pdf?id=kJqXEPXMsE0), [Qian et al.](https://academic.oup.com/bib/article/25/1/bbad435/7457350) and we would like to express our gratitude to them.:+1::+1:
+Our code was developed with reference to the code written by [Guan et al.](https://openreview.net/pdf?id=kJqXEPXMsE0), [Qian et al.](https://academic.oup.com/bib/article/25/1/bbad435/7457350) and we would like to express our gratitude to them. :+1::+1:
 If you have any questions, feel free to contact Hao Lu, luhao@stu.ouc.edu.cn :heart::heart:
