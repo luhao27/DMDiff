@@ -1,5 +1,5 @@
 # DMDiff
-##:rocket:Designing High Affinity 3D Drug Molecules using Distance Aware Mixed Attention Diffusion Model
+## :rocket:Designing High Affinity 3D Drug Molecules using Distance Aware Mixed Attention Diffusion Model
 
 
 ![mhnn-method](./main.jpg)
